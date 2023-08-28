@@ -6,7 +6,7 @@ const Home=()=>{
       <div className="container">
         <div className="m-5 flex items-centre justify-between">
           <div className="left flex-1 justify-center justify-between">
-            <img src="https://th.bing.com/th/id/OIP.5PxGgx_aOWpTkul_D3nnbwAAAA?w=335&h=185&c=7&r=0&o=5&pid=1.7" alt="..."/>
+            <img src="https://th.bing.com/th?id=OIP.QdIrCNdF2ZVylABjjes1LAHaGq&w=263&h=237&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" alt="..."/>
           </div>
           <div className="m-5 right flex-1">
             <h6>HELLO,</h6>

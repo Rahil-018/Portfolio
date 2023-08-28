@@ -54,7 +54,7 @@ const Skill = (props) => {
                 </div>
             </div>
             
-            <div style={{ height: '100%', backgroundColor: 'acliceblue', color: 'black ' }}>
+            <div style={{ height: '100%' }}>
                 <h3 align="center"><u>MY KEY SKILLS </u></h3>
                 <div className="m-3 row row-cols-1 row-cols-md-3 g-3 text-bg-white p-5" align="center" >
                     <div className="col g-1 ">
