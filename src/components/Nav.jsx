@@ -5,7 +5,7 @@ const Nav = () => {
         <>
             <ul className="nav justify-content-center" style={{backgroundColor:'#cc4444'}}>
                 <li className="nav-item" >
-                    <Link className="nav-link active" aria-current="page" to=" "  style={{color:'black'}} >Home</Link>
+                    <Link className="nav-link active" aria-current="page" to="/"  style={{color:'black'}} >Home</Link>
                 </li>
                 <li className="nav-item">
                     <Link className="nav-link" to="/Skill" style={{color:'black'}} >Skill</Link>
