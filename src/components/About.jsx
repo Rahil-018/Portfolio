@@ -3,7 +3,7 @@ const About = () => {
   return (
     <>
       <div className="container">
-        <div className="m-5 flex items-centre justify-between">
+        <div className="m-5 flex items-centre justify-between alert alert-primary">
           <h4>My Name Is, </h4>
           <h1>Rahil Khan<br />
             <span>I'm Developer</span></h1><hr/>

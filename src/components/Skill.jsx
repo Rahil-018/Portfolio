@@ -31,9 +31,9 @@ const Skill = (props) => {
     const [text, setText] = useState('');
     return (
         <>
-            <div style={{ height: '45rem' }}>
-            <h1 align="center" className='m-3' ><b>WELCOME TO MY PROFILE</b></h1>
-                <h1 align="center"  className='m-3 text-black'>TEXT FORM</h1>
+            <div className='container' style={{ height: '45rem' }}>
+                <h1 align="center" className='m-3' ><b>WELCOME TO MY PROFILE</b></h1>
+                <h1 align="center" className='m-3 text-black'>TEXT FORM</h1>
                 <div className="container " >
                     <h1 className='mb-4'>{props.heading}</h1>
                     <div className="mb-3">
@@ -53,7 +53,7 @@ const Skill = (props) => {
                     <p className='text-black'>{text.length > 0 ? text : "Nothing to preview!"}</p>
                 </div>
             </div>
-            
+
             <div style={{ height: '100%' }}>
                 <h3 align="center"><u>MY KEY SKILLS </u></h3>
                 <div className="m-3 row row-cols-1 row-cols-md-3 g-3 text-bg-white p-5" align="center" >
