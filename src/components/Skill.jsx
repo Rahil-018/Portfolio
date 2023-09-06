@@ -78,7 +78,7 @@ const Skill = (props) => {
                             </div>
                         </div>
                     </div>
-                    <div className="col g-1">
+                    <div className="col g-1" >
                         <div className="card g-1" >
                             <img src="https://th.bing.com/th/id/OIP.qSEVaVVA0jHNSqSm8lARfgHaFb?w=284&h=209&c=7&r=0&o=5&pid=1.7" height={'250px'} width={''} className="card-img-top" alt="..." />
                             <div className="card-body">
@@ -100,7 +100,7 @@ const Skill = (props) => {
                         </div>
                     </div>
                     <div className="col g-1">
-                        <div className="card g-1">
+                        <div className="card g-1 ">
                             <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/07/bootstrap-5-vanilla-js.jpg" height={'250px'} width={''} className="card-img-top" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">BOOTSTRAP</h5>
@@ -120,7 +120,6 @@ const Skill = (props) => {
                     </div>
                 </div>
             </div>
-
         </>
     )
 }
